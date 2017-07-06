@@ -1,1 +1,3 @@
 # NetworkIndicator
+
+for rainmeter
